@@ -7,7 +7,7 @@ function Login() {
       <div className="flex flex-col absolute z-50 h-4/6 items-center justify-center w-full space-y-4">
         <Image
           className="object-cover rounded-full"
-          src="https://links.papareact.com/3pi"
+          src="https://iqbalfachry.com/wp-content/uploads/2020/09/IMG_4155-4x6-1.jpg"
           height={200}
           width={200}
         />
